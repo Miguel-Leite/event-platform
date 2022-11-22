@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Heat" />
+  <!-- <img src="./.github/app.gif" alt="Ignite 2.0" /> -->
 
   &#xa0;
 
   <!-- <a href="https://heat.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Heat</h1>
+<h1 align="center">Ignite Lab 2.0</h1>
 
 
 <span align="center">
